@@ -2,5 +2,6 @@
 *.csv
 *.pdf
 *.pyc
+*.png
 /myEnvA
 /myEnvB
